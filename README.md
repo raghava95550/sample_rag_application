@@ -48,3 +48,4 @@ pip install -r requirements.txt
    ```
 
 The notebook builds the Chroma vector store from the documents when run; the index is not configured as a persistent store.
+
