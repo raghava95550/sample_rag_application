@@ -1,0 +1,10 @@
+langchain_community
+langchainhub
+chromadb
+langchain
+langchain-openai
+python-dotenv
+langchain-chroma
+langchain-classic
+pypdf
+docx2txt
